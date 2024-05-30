@@ -9,6 +9,8 @@ Ahoj, v dnešním projektu si vytvoříme přístroj, který nám bude měřit t
 - nepájivé pole
 
 # AHT 10
+<img alt="AHT 10" src="https://github.com/prokyber/r-duino-led-AHT10/blob/main/img/460_aht10-full.webp" style="Height: 30vh;">
+
 AHT10 představuje novou generaci snímače teploty a vlhkosti. Je zabudován do pouzdra 4×5 mm a výškou 1,6mm. Čidlo vysílá kalibrovaný digitální signál ve standardním formátu I2C. AHT10 je vybaven nověnavrženým čipem specifickým pro ASIC, vylepšeným MEMS polovodičovým kapacitním snímačem vlhkosti a standardním snímačem teploty na čipu. Jeho výkon byl výrazně vylepšen nad úroveň spolehlivosti senzorů předchozí generace.
 
 # OLED 128x64 0.96 I2C
