@@ -28,6 +28,12 @@ Přenos dat se zahajuje START bitem (S), když je SDA nízká, zatímco SCL zůs
 # Zapojení
 <img alt="zapojení" src="https://github.com/prokyber/r-duino-led-AHT10/blob/main/img/zapojeni.png" style="Height: 70vh;">
 
+Při zpojení chceme v tomto projektu vždy u všech tří součástek propojit
+5V -> VCC/VIN
+GND -> GND
+SDA -> SDA
+SCL -> SCL/SCK
+
 # Knihovny
 Před tím než začeme psát kód tak si pro účely tohoto projektu budeme muset stáhnou pár externích knihoven díky kterým si usnadníme komunikaci s displejem a senzorem. Klikněte na Nástorje -> Spravovat knihovny. Na levé straně by se vám měla otevřít lišta s možností vyhledávání. Zde vyhledejte "Adafruit AHT10" na příslušné kartě pak vyberte verzi 0.1.0 a klikněte na instalovat.
 
