@@ -16,7 +16,7 @@ AHT10 představuje novou generaci snímače teploty a vlhkosti. Je zabudován do
 # OLED 128x64 0.96 I2C
 <img alt="OLED displej" src="https://github.com/prokyber/r-duino-led-AHT10/blob/main/img/468_ezgif-1-d094aebd32.png" style="Height: 30vh;">
 
-OLED displej s modrými znaky má v porovnání s alfanumerickými LCD displeji mnoho výhod. Patří mezi například vyšší rozlišení (v tomto případě 128x64 bodů) či nižší spotřeba. Právě nižší spotřeby je dosaženo tím, že u OLED displeje svítí pouze ty body, které jsou aktivovány. Pro článek vybraný OLED displej obsahuje řídící obvod SSD1306, který obstarává komunikaci s Ř-DUINEM po rozhraní I2C či SPI, v tomto případě je použita sběrnice I2C. Co se týká velikosti, tak tento displej má úhlopříčku 0,96 palce a celková velikost modulu je 2,7 x 2,7 cm.
+OLED displej s modrými znaky má v porovnání s alfanumerickými LCD displeji mnoho výhod. Patří mezi ně například vyšší rozlišení (v tomto případě 128x64 bodů) či nižší spotřeba. Právě nižší spotřeby je dosaženo tím, že u OLED displeje svítí pouze ty body, které jsou aktivovány. Pro článek vybraný OLED displej obsahuje řídící obvod SSD1306, který obstarává komunikaci s Ř-DUINEM po rozhraní I2C či SPI, v tomto případě je použita sběrnice I2C. Co se týká velikosti, tak tento displej má úhlopříčku 0,96 palce a celková velikost modulu je 2,7 x 2,7 cm.
 
 # I2C
 <img alt="" src="https://github.com/prokyber/r-duino-led-temperature-sensor/blob/main/img/900px-I2C_data_transfer.png" style="Height: 30vh;">
